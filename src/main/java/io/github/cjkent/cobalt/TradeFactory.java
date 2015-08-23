@@ -1,8 +1,3 @@
-/**
- * Copyright (C) 2015 - present by OpenGamma Inc. and the OpenGamma group of companies
- * <p>
- * Please see distribution for license.
- */
 package io.github.cjkent.cobalt;
 
 import static com.opengamma.strata.basics.date.BusinessDayConventions.MODIFIED_FOLLOWING;
